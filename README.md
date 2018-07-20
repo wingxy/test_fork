@@ -7,3 +7,5 @@ origin test2
 local test3
 
 origin test4
+
+origin test5
